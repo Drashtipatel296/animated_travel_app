@@ -1,16 +1,16 @@
-# travel_app
+# Animated Travel App
 
-A new Flutter project.
+An immersive travel app featuring dynamic animations to enhance user experience. Discover destinations with stunning visual transitions and interactive elements. Effortlessly book trips, explore curated travel guides, and get inspired by a vibrant, visually appealing interface.
 
-## Getting Started
+### Photos
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/c6059c67-9a4e-4f01-ba82-9ed2c342635e" width=230>
+<img src="https://github.com/user-attachments/assets/04431029-6070-4008-89b5-40eb351e0188" width=230>
+<img src="https://github.com/user-attachments/assets/1cf98470-45cd-4773-b04f-2c85bf04cac1" width=230>
+<img src="https://github.com/user-attachments/assets/f01255a9-077f-4991-9fe8-f92551268ccc" width=230>
+<img src="https://github.com/user-attachments/assets/703194e9-f46c-4098-bb6d-421348faf402" width=230>
 
-A few resources to get you started if this is your first Flutter project:
+### Video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/c4938683-53b1-435b-a97f-c2c3abeb7c09
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
